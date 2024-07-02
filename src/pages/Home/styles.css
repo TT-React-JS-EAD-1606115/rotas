@@ -1,0 +1,10 @@
+.home {
+  height: 70vh;
+  background-color: darkred;
+}
+
+.home button {
+  margin: 2rem;
+  padding: 1rem;
+  cursor: pointer;
+}

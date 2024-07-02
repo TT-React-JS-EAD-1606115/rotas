@@ -1,0 +1,11 @@
+nav ul {
+  display: flex;
+  color: white;
+  list-style: none;
+}
+
+nav ul a {
+  color: white;
+  font-size: 22px;
+  margin-left: 3rem;
+}
